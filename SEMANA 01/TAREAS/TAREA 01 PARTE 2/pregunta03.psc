@@ -14,7 +14,7 @@ Algoritmo SistemaLoginConIntentos
         Si usuario == "alumno-senati" Y clave == "senati$2025" Entonces
             Escribir "Clave correcta"
             Escribir "Usuario autorizado"
-            intentos = 0  // Esto rompe el ciclo porque ya acertó
+            intentos = 0 
         Sino
             intentos = intentos - 1
             Escribir "Clave incorrecta. Te quedan ", intentos, " intentos."
