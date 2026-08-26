@@ -1,0 +1,7 @@
+Explica con tus propias palabras ¿Qué es un algoritmo y cuáles son sus características? (5 puntos)
+
+Un algoritmo es una serie de pasos o instrucciones para realizar una tarea, se caracteriza por tener una secuencia ordenada, ser preciso y claro, no ser ambiguo y es finito.
+Un algoritmo consta de 3 partes:
+Entrada o Input: Es donde se ingresa los datos.
+Proceso: Aca es donde se ejecutara las instrucciones dadas.
+Salida u Output: Son los resultados del proceso.

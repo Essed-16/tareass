@@ -1,0 +1,7 @@
+Explica con tus propias palabras lo que entiendes por tipos de datos (5 puntos)
+ 
+Son clasificaciones que se le da a una variable, que le indica a la computadora que tipo de valor va a tomar, que a la vez se clasifican en:
+*Enteros o Integer(int): Son los numeros enteros, que no poseen un decimal. (ejem:: 10, 8 ,3)
+*Reales o Flotantes(float): Son los numeros reales, los que llevan un decimal o mas. (ejem: 10.1, 8.8, 67.67)
+*Alfanumericos o cadenas de texto(string): Son palabras conformados ya sean letras o numeros, que estan encerrados entre comillas. (por ejemplo: "LASD9", "HOLAAAAA", "MESSI10")
+*Logicos o booleanos(boolean): Esto son para condiciones y solo puede tomar dos valores, que son Verdadero(True) o Falso(False)
